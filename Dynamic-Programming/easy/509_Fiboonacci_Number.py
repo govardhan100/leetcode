@@ -4,7 +4,7 @@ class Solution:
         # recursive method
 
         ###########################
-        
+
 
         # def recursive_method(n):
         #     if n==0 or n==1:
@@ -46,8 +46,10 @@ class Solution:
         #     return table[n]
         # return tabularisation(n)
 
-
+        ###############################
         # optimised solution
+
+        ###############################
 
         def optimised_solution(n):
             if n==1 or n==0:
