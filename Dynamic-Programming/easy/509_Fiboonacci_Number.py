@@ -1,7 +1,10 @@
 class Solution:
     def fib(self, n: int) -> int:
-
+        ###########################
         # recursive method
+
+        ###########################
+        
 
         # def recursive_method(n):
         #     if n==0 or n==1:
@@ -13,6 +16,8 @@ class Solution:
         ###########################
 
         #  memorisation
+
+        ###########################
         # memo={}
         # memo[0]=0
         # memo[1]=1
